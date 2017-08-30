@@ -14,7 +14,8 @@ All sections are started with <div> element with standard bootstrap
 class "container".  
 
 ## General block section structure
-`<section>
+`
+<section>
     <div class="container">
         <div class="row">
             <div class="col-*-*"></div>
@@ -23,17 +24,18 @@ class "container".
         </div>
     </div>
  </section>
- `
-
-[Link](url) and ![Image](src)
+`
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see source code at [here](https://github.com/malianurag/portfolio-assign).
 
-### Jekyll Themes
+### Anurag Theme
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malianurag/portfolio-assign/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Website will have theme based on the css file in css/main.css file and some predefined bootstrap classes.
+Bootstrap is used from cdn at runtime. Text font and some symbols are also used from cdn. Links for all 
+cdn used are in head section of main.html file
 
-### Support or Contact
+### Support & Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+In case of any question or suggestion mail me at vision2realityanurag@yahooo.in.
+Your suggestions will be appreciated. Thank You!!!
