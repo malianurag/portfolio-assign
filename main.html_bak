@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Anurag Mali</title>
+	<!-- Meta data, viewport, author -->
+	<meta charset="utf-8">
+	<meta name="description" content="">
+    <meta name="author" content="Anurag Mali">
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+</head>
+	<body>
+		<!-- Navigation -->
+		<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top navbar-custom">
+			<div class="container-fluid navbar-container-custom">
+				<a href="#" class="navbar-brand">MyPortfolio</a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="navbarResponsive"
+				aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="collapse navbar-collapse" id="myNavbar">
+					<ul class="navbar-nav ml-auto">
+						<li class="nav-item">
+							<a href="#about" class="nav-link">About Me</a>
+						</li>
+						<li class="nav-item">
+							<a href="#projects" class="nav-link">Projects</a>
+						</li>
+						<li class="nav-item">
+							<a href="#skills" class="nav-link">Skills</a>					
+						</li>
+						<li class="nav-item">
+							<a href="#contact" class="nav-link">Contact</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+
+		<header class="intro-header">
+			<div class="container">
+				<div class="header-title">
+					<h1>Anurag Mali</h1>
+					<h3>Mean Stack Developer</h3>
+					<hr class="custom-divider">
+				</div>
+			</div>
+		</header>
+		
+		<header class="section-header" id="projects">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h2 class="section-title">PROJECTS</h2>
+						<hr class="section-title-line" width="150px">
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<section class="section-content-a">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 ml-auto">
+						<hr class="section-header-line">
+						<div class="clearfix"></div>
+						<h3 class="section-heading">IHO-4000I: <br>YuppTV Android SDK</h3>
+						<p class="lead">Contribution to the development of Android SDK and system level apks for YuppTV
+						android set top box</p>
+					</div>
+					<div class="col-lg-5 mr-auto">
+						<img class="img-fluid" src="css/project_1.jpg" alt="Android set top box image">
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-content-b">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 mr-auto order-lg-2">
+						<hr class="section-header-line">
+						<div class="clearfix"></div>
+						<h3 class="section-heading">Crosswalk browser: <br>Netrange	STB embeded browser</h3>
+						<p class="lead">Development of remote interfaces for different HTML elements. Compatiblity and 
+						performance enhancement for different platforms</p>
+					</div>
+					<div class="col-lg-5 ml-auto order-lg-1">
+						<img src="css/netrange.jpg" class="img-fluid" align="netrange browser image">
+					</div>
+					<div></div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-content-a">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-5 ml-auto">
+						<hr class="section-header-line">
+						<div class="clearfix"></div>
+						<h3 class="section-heading">Enterprice Application Group: <br>Synechron Internal Application</h3>
+						<p class="lead">Defining the logical flow and rules to the desk allocation module of project</p>
+					</div>
+					<div class="col-lg-5 mr-auto">
+						<img class="img-fluid" src="css/eag-2.png" alt="Android set top box image">
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+		<header class="section-header" id="skills">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h2 class="section-title">SKILLS</h2>
+						<hr class="section-title-line" width="100px">
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<section class="section-content-skill-a">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h3 class="skill-heading">My Development Process</h3>
+					</div>
+				</div>
+				<div class="row justify-content-center">
+					<div class="col-md-2 rounded-circle rounded-circle-custom">
+						<h4 class="lead">Planning</h4>
+					</div>
+					<div class="col-md-1 angle-bracket-div">
+						<i class="fa fa-angle-right fa-5x angle-bracket" aria-hidden="true"></i>
+					</div>
+					<div class="col-md-2 rounded-circle rounded-circle-custom">
+						<h4 class="lead">Design</h4>
+					</div>
+					<div class="col-md-1 angle-bracket-div">
+						<i class="fa fa-angle-right fa-5x angle-bracket" aria-hidden="true"></i>
+					</div>
+					<div class="col-md-2 rounded-circle rounded-circle-custom">
+						<h4 class="lead">Development</h4>
+					</div>
+					<div class="col-md-1 angle-bracket-div">
+						<i class="fa fa-angle-right fa-5x angle-bracket" aria-hidden="true"></i>
+					</div>
+					<div class="col-md-2 rounded-circle rounded-circle-custom">
+						<h4 class="lead">Launch</h4>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section-content-skill-b">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-tech-skill">
+						<table class="table table-hover table-striped">
+							<thead>
+								<tr>
+									<th colspan="2"><h3 class="tech-skill-heading-a">TECHNICAL SKILLS...</h3></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">HTML :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 70%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">CSS :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 75%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">Javascript :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 60%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">Bootstrap :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 70%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">JQuery :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 50%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">Angular Js :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 55%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">Node Js :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 70%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>											
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">Express Js :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 30%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+								<tr class="table-row">
+									<td style="width: 30%" class="skill-name lead">Cloud & Deployment :</td>
+									<td style="width: 70%">
+										<hr class="eval-line" style="width: 50%">
+										<span class="fa fa-circle fa-circle-custom " aria-hidden="true"></span>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div class="col-md-6 col-service">
+						<table class="table table-hover table-striped">
+							<thead>
+								<tr>
+									<th colspan="2"><h3 class="tech-skill-heading-b">...SERVICES</h3></th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Website Design</td>
+								</tr>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Project & Resource Planning</td>
+								</tr>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Code & Development</td>
+								</tr>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Single Page Application Development</td>
+								</tr>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">REST API</td>
+								</tr>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Backend</td>
+								</tr>
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Social Media Integration</td>
+								</tr>		
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Product Deployment & Maintenance</td>
+								</tr>									
+								<tr class="table-row">
+									<td class="service-name lead" style="width: 30%">Productivity, Flexibility & Speed</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<header class="section-header" id="about">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h2 class="section-title">ABOUT ME</h2>
+						<hr class="section-title-line" width="160px">
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<section class="section-about">
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-10">
+						<p class="lead text-justify p-about">Hi, I am certified mean stack developer by Edwisor. After graduating in 2012 from Pune University, 
+						I have worded at Synechron Technologies, Pune for 14 months. Then I completed masters degree from VJTI, Mumbai 
+						in 2016. Now I am working as software engineer in Changhong Network Technologies, Mianyang, China since last 1 year.</p> 
+						<p class="lead text-justify p-about">I am specialized in android sdk and browser middleware webkit development. I also have experience in developing UI for set top box in HTML, CSS and Javascript. I have worked as a part of team for various 
+						clients from India, Italy and Taiwan. I acquired project and time management skills as well as ability to communicate
+						with clients and team members.</p>
+						<p class="lead text-justify p-about">From last 6 months, I have expanded my knowledge about web development, working with Edwisor. I am looking forward to apply it as Mean stack developer and contribute to the growth of organization</p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<header class="section-header" id="contact">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12">
+						<h2 class="section-title">CONTACT</h2>
+						<hr class="section-title-line" width="135px">
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<aside class="banner">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-6 my-auto">
+						<h2>Let's Get In Touch!</h2>
+						
+						<ul class="list-inline banner-social-buttons">
+              				<li class="list-inline-item">
+                				<a href="#" class="btn btn-secondary btn-lg">
+                  					<i class="fa fa-twitter fa-fw"></i>
+                  					<span class="network-name">Twitter</span>
+                				</a>
+              				</li>
+              			
+              				<li class="list-inline-item">
+				                <a href="#" class="btn btn-secondary btn-lg">
+                					<i class="fa fa-github fa-fw"></i>
+                  					<span class="network-name">Github</span>
+                				</a>
+              				</li>
+              				
+              				<li class="list-inline-item">
+                				<a href="#" class="btn btn-secondary btn-lg">
+                  					<i class="fa fa-linkedin fa-fw"></i>
+                  					<span class="network-name">Linkedin</span>
+                				</a>
+              				</li>
+            			</ul>
+					</div>
+					<div class="col-lg-6 col-contact">
+						<div class="col-email">
+							<h2 style="display: inline;">Email :   </h2> 
+							<h3 style="display: inline;">vision2realityanurag@yahoo.in</h3>
+						</div>
+						<div class="col-mobile">
+							<h2 style="display: inline;">Mobile :   </h2>
+							<h3 style="display: inline;">+86 135 417 552 44</h3>					
+						</div>
+					</div>
+				</div>
+			</div>
+		</aside>
+
+		<footer>
+      		<div class="container">
+        		<ul class="list-inline">
+          			<li class="list-inline-item">
+            			<a href="#">Home</a>
+          			</li>
+           			<li class="footer-menu-divider list-inline-item">&sdot;</li>
+          			<li class="list-inline-item">
+            			<a href="#projects">Projects</a>
+          			</li>
+          			<li class="footer-menu-divider list-inline-item">&sdot;</li>
+          			<li class="list-inline-item">
+            			<a href="#about">About</a>
+          			</li>
+          			<li class="footer-menu-divider list-inline-item">&sdot;</li>
+          			<li class="list-inline-item">
+            			<a href="#skills">Skills</a>
+          			</li>
+          			<li class="footer-menu-divider list-inline-item">&sdot;</li>
+          			<li class="list-inline-item">
+            			<a href="#about">About Me</a>
+          			</li>
+          			<li class="footer-menu-divider list-inline-item">&sdot;</li>
+          			<li class="list-inline-item">
+            			<a href="#contact">Contact</a>
+          			</li>
+        		</ul>
+        	<p class="copyright text-muted small">Copyright &copy; Your Company 2017. All Rights Reserved</p>
+      </div>
+    </footer>
+
+		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+    	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+
+	</body>
+</html>
