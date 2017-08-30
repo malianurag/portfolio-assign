@@ -3,24 +3,27 @@
 This is general UI layout of my portfolio website.
 This is created just as startup for learning HTML, CSS along with Bootstrap.
 There will be lot of changes over the period of time. 
-### Markdown
+Your guidance & suggestions will be appreciated. Thank you
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Layout Description
 
+Website uses following stadard bootstrap rules for the layout design
 ```markdown
-Syntax highlighted code block
+All the sections are responsive including navbar and footer
+All sections are started with <div> element with standard bootstrap 
+class "container".  
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## General block section structure
+`<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-*-*"></div>
+            .
+            .
+        </div>
+    </div>
+ </section>
+ `
 
 [Link](url) and ![Image](src)
 ```
