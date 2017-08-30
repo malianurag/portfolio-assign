@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Portfolio Assignment Repository
 
-You can use the [editor on GitHub](https://github.com/malianurag/portfolio-assign/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+This is general UI layout of my portfolio website.
+This is created just as startup for learning HTML, CSS along with Bootstrap.
+There will be lot of changes over the period of time. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
