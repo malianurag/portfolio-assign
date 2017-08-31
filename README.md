@@ -37,5 +37,5 @@ cdn used are in head section of main.html file
 
 ### Support & Contact
 
-In case of any question or suggestion mail me at vision2realityanurag@yahooo.in.
+In case of any question or suggestion mail me at vision2realityanurag@yahoo.in.
 Your suggestions will be appreciated. Thank You!!!
